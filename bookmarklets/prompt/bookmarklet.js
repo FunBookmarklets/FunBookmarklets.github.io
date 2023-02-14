@@ -1,1 +1,1 @@
-alert(prompt("What do you want the alert to be?");
+alert(prompt("What do you want the alert to be?"));
