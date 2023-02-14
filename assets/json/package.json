@@ -1,0 +1,20 @@
+{
+  "name": "Fun Bookmarklets",
+  "description": "Bookmarklets to use to have some fun.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FunBookmarklets/FunBookmarklets.github.io"
+  },
+  "keywords": [
+    "fun bookmarklets",
+    "bookmarklets",
+    "shluffy"
+  ],
+  "author": "Shluffy",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/FunBookmarklets/FunBookmarklets.github.io/issues"
+  },
+  "homepage": "FunBookmarklets.github.io"
+}
